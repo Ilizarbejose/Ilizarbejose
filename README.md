@@ -1,5 +1,10 @@
-# About Me:
-- 🔭 I’m currently working on **Awesome Projects**<br><br>- 🌱 I’m currently learning **AI and AR development**<br><br>- 💬 Ask me about **Anything about develop**<br><br>- 📫 How to reach me **jose.ilizarbee@gmail.com**<br><br>- ⚡ Fun fact **I think i like cats a crocodiles**
+## About Me
+
+- 🔭 Currently working on **awesome projects**.
+- 🌱 Currently learning **AI and AR development**.
+- 💬 Ask me about **software development**.
+- 📫 **jose.ilizarbee@gmail.com**
+- ⚡ Fun fact: **I think I like cats and crocodiles.**
 
 
 # Tech Stack:
